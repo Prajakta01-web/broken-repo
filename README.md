@@ -6,7 +6,7 @@ This repository contains a simple C++ program that simulates a sensor data loggi
 The objective of this assignment was to analyze and repair a poorly maintained GitHub repository using proper Git and GitHub practices.
 The focus of the assignment was repository management, documentation, cleanup, and version control workflow rather than modifying the functionality of the source code.
 
-# Project Descriptio
+# Project Description
 
 The project simulates a basic sensor data logger using C++.
 
